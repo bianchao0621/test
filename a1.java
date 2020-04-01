@@ -1,4 +1,5 @@
-qqqqq
-wwwww
-eeeee
-rrrrr
+public class a1{
+    public static void main(final String[] args) {
+        System.out.println("Hello World");
+    }
+}
