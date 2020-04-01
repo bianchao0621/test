@@ -1,2 +1,2 @@
-# Enterprise-inventory-management-system
-企业进销存管理系统
+# test
+第一次使用GitHub，练手
